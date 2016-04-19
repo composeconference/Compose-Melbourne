@@ -13,6 +13,7 @@
 *Rewards*:
 
  - 6 free tickets
+ - Acknowledgement at the opening of the first day
  - Banners at the front of the stage and in communal areas
  - Opportunity for recruiting promotion (< 5 minutes) slot
  - Branding at the start of recorded videos
@@ -42,7 +43,7 @@
 
 *Rewards*:
 
- - 3 Tickets
+ - 3 free tickets
  - Provide stickers/swag for attendee bags
  - Logo on website, and conference materials
 
@@ -54,22 +55,28 @@
 
 ---
 
-## Benefits Information
-
- - Banners must be provided by Sponsor
- -
-
 ## Themed Sponsorship Options
 
 ### Diversity sponsor - $15,000
 
- - Provides 20 free tickets to diverse members of the community
+ - Provides 20 free tickets to diverse members of the community on a scholarship basis
  - Pays for day-care services
+ - Receives a special thank you at the conference opening
+
+
+---
+
+## Benefits Information
+
+ - Banners must be provided by the Sponsor
+ - Logos must be provided by the Sponsor
+ - Logos will be on: Printed material, formal slides, and the website `composeconference.org`, as specified by the tier structure
+ - All sponsors will be thanked at the end of the formal component of both days
 
 
 ## Contact
 
-  - [noonsilk+compose@gmail.com](mailto:noonsilk+compose@gmail.com)
+  - Lyndon Maydwell: [maydwell@gmail.com](mailto:maydwell@gmail.com)
 
 
 ## Conference Dates
