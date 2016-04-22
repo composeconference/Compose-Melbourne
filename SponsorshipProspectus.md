@@ -74,20 +74,12 @@
 
  - Banners must be provided by the Sponsor.
  - Logos must be provided by the Sponsor.
- - Logos will be on: Printed material, formal slides, and the website `composeconference.org`, as specified by the tier structure.
+ - Logos will be on: printed material, formal slides, and the website `composeconference.org`, as specified by the tier structure.
  - All sponsors will be thanked at the end of the formal component of both days.
- - All logos will be accompanied on the website by a brief description.
+ - All logos will be accompanied on the website by a brief description of the services offered.
+ - All sponsorship amounts are listed in AUD.
 
 
 ## Contact
 
   - Compose Melbourne Committee: [composemel-admin@googlegroups.com](mailto:composemel-admin@googlegroups.com)
-
-
-## Conference Dates
-
-| Event    | Date                 |
-|----------+----------------------|
-| CFP Open | TBA                  |
-| Day 1    | Thursday, 1-Sep-2016 |
-| Day 2    | Friday,  2-Sep-2016  |
