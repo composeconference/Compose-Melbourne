@@ -72,15 +72,16 @@
 
 ## Benefits Information
 
- - Banners must be provided by the Sponsor
- - Logos must be provided by the Sponsor
- - Logos will be on: Printed material, formal slides, and the website `composeconference.org`, as specified by the tier structure
- - All sponsors will be thanked at the end of the formal component of both days
+ - Banners must be provided by the Sponsor.
+ - Logos must be provided by the Sponsor.
+ - Logos will be on: Printed material, formal slides, and the website `composeconference.org`, as specified by the tier structure.
+ - All sponsors will be thanked at the end of the formal component of both days.
+ - All logos will be accompanied on the website by a brief description.
 
 
 ## Contact
 
-  - Lyndon Maydwell: [maydwell@gmail.com](mailto:maydwell@gmail.com)
+  - Compose Melbourne Committee: [composemel-admin@googlegroups.com](mailto:composemel-admin@googlegroups.com)
 
 
 ## Conference Dates
