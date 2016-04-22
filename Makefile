@@ -1,3 +1,2 @@
-SponsorshipProspectus.pdf: SponsorshipProspectus.md
-	pandoc SponsorshipProspectus.md -o SponsorshipProspectus.pdf -fmarkdown-implicit_figures
-	
+ComposeMelbourneSponsorshipProspectus.pdf: SponsorshipProspectus.md
+	pandoc SponsorshipProspectus.md -o ComposeMelbourneSponsorshipProspectus.pdf -fmarkdown-implicit_figures
