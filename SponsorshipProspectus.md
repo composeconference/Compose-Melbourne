@@ -12,11 +12,12 @@
 
 *Rewards*:
 
- - 6 free tickets
+ - 8 tickets
  - Acknowledgement at the opening of the first day
- - Banners at the front of the stage and in communal areas
+ - Advertise upcoming workshop or event during conference
  - Opportunity for recruiting promotion (< 5 minutes) slot
  - Branding at the start of recorded videos
+ - Banners at the front of the stage and in communal areas
  - Logo on slide at start of sessions, central position on website, and conference materials
  - Provide stickers/swag for attendee bags
 
@@ -25,32 +26,35 @@
 
 *Rewards*:
 
- - 5 free tickets
+ - 6 tickets
+ - Branding at the start of recorded videos
  - Banner in the communal area
- - Logo on website, and conference materials
+ - Logo on slide at start of sessions, central position on website, and conference materials
  - Provide stickers/swag for attendee bags
+
 
 ### Tier 2 Sponsor - $5,000
 
 *Rewards*:
 
- - 4 free tickets
- - Provide stickers/swag for attendee bags
+ - 4 tickets
+ - Banner in the communal area
  - Logo on website, and conference materials
+ - Provide stickers/swag for attendee bags
 
 
 ### Tier 3 Sponsor - $2,000
 
 *Rewards*:
 
- - 3 free tickets
- - Provide stickers/swag for attendee bags
+ - 3 tickets
  - Logo on website, and conference materials
+ - Provide stickers/swag for attendee bags
 
 
 ### Tier 4 Sponsor - $1,000
 
- - 2 free tickets
+ - 2 tickets
  - Logo on website
 
 ---
