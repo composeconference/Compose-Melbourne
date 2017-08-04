@@ -1,7 +1,7 @@
 ![](logo-no-text.png)
 
 \begin{center}
-  \text{\LARGE Melbourne Sponsorship Prospectus}
+  \text{\LARGE Melbourne Sponsorship Prospectus 2016}
 \end{center}
 
 ---
